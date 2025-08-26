@@ -1,0 +1,20 @@
+aiodns==3.5.0
+aiohappyeyeballs==2.6.1
+aiohttp==3.12.15
+aiosignal==1.4.0
+aiosqlite==0.21.0
+attrs==25.3.0
+Brotli==1.1.0
+cffi==1.17.1
+-e git+https://github.com/jordishore/DiscordAutoDelete.git@71124e8f2c6f2a21870b579eb1c78c0dc86f784a#egg=discord_autodelete
+discord.py==2.6.2
+frozenlist==1.7.0
+idna==3.10
+multidict==6.6.4
+propcache==0.3.2
+pycares==4.10.0
+pycparser==2.22
+python-dotenv==1.1.1
+pytimeparse==1.1.8
+typing_extensions==4.15.0
+yarl==1.20.1
